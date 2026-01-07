@@ -13,7 +13,7 @@
     "@bgd-labs/toolbox": "^0.0.55",
     "@leeoniya/ufuzzy": "^1.0.18",
     "clsx": "^2.1.1",
-    "next": "16.0.8",
+    "next": "16.0.10",
     "react": "19.2.1",
     "react-dom": "19.2.1",
     "tailwind-merge": "^2.6.0",
